@@ -50,6 +50,6 @@ When you arrive at the landing page you are free to explore driveways by locatio
 
 ## Mobile Responsive
 
-<img width="200"height="350"  alt="Screen Shot 2021-06-25 at 8 04 55 AM" src="https://user-images.githubusercontent.com/78625574/123483606-d68b8300-d5bb-11eb-8791-9110f85bd112.png"> 
+<img width="200"height="350"  alt="Screen Shot 2021-06-25 at 8 04 55 AM" src="https://user-images.githubusercontent.com/78625574/123483606-d68b8300-d5bb-11eb-8791-9110f85bd112.png">
 
 <img width="200" height="350" alt="Screen Shot 2021-06-25 at 8 05 43 AM" src="https://user-images.githubusercontent.com/78625574/123483609-d8eddd00-d5bb-11eb-8738-b24ae414de3e.png">
