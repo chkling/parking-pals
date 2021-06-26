@@ -1,7 +1,7 @@
 
 # Parking Puppy
 An app to make parking a little bit easier.  
-You can Register, login and begin exploring our range of driveways. Then Reserve the parking spot directly on the app! All of your upcoming reservations will be saved on your driver profile.
+You can register, login and begin exploring our range of driveways. Then reserve the parking spot directly on the app! All of your upcoming reservations will be saved on your driver profile.
 
 <img width="1440" alt="Screen Shot 2021-06-25 at 8 00 51 AM" src="https://user-images.githubusercontent.com/78625574/123483088-10a85500-d5bb-11eb-9eeb-7e01bb52bad9.png">
 
@@ -30,7 +30,7 @@ You can Register, login and begin exploring our range of driveways. Then Reserve
 * Toasts
 
 ### Walkthrough
-When you arrive at the landing page you are free to explore driveways by location, however if you attempt to reserve a driveway without being logged in you will quickly be rerouted to our login page. Not a registered user? Dont worry! Sign up is a breeze, after inputting a few details you can head back to finish booking! After booking don't forget to check out your profile page where your upcoming reservations will be easily accessible.  
+When you arrive at the landing page you are free to explore driveways by location, however if you attempt to reserve a driveway without being logged in you will quickly be rerouted to our login page. Not a registered user? Dont worry! Sign up is a breeze, after inputting a few details you can head back to finish booking! After booking, don't forget to check out your profile page where your upcoming reservations will be easily accessible.  
 
 ### Future Development
 * Host Platform
