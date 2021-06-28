@@ -51,3 +51,8 @@ When you arrive at the landing page you are free to explore driveways by locatio
 ## Mobile Responsive
 
 <img width="200" height="350" alt="Screen Shot 2021-06-26 at 2 48 30 PM" src="https://user-images.githubusercontent.com/71455657/123522774-7c5af280-d68d-11eb-95fc-548cd0cd7766.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="200" height="350" alt="Screen Shot 2021-06-26 at 2 46 58 PM" src="https://user-images.githubusercontent.com/71455657/123522751-59304300-d68d-11eb-954e-e02decbb1b17.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="200" height="350" alt="Screen Shot 2021-06-25 at 8 05 43 AM" src="https://user-images.githubusercontent.com/78625574/123483609-d8eddd00-d5bb-11eb-8738-b24ae414de3e.png">
+
+## Color Palette
+
+![Screen Shot 2021-06-28 at 10 50 07 AM](https://user-images.githubusercontent.com/71455657/123657205-99630300-d7fe-11eb-812d-7f3d4df8a8df.png) <br>
+&nbsp;&nbsp;&nbsp; #1E3D58 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; #057DCD &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; #43B0F1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; #E8EEF1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; #FD7F20
