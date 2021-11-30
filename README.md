@@ -25,7 +25,7 @@ You can register, login and begin exploring our range of driveways. Then reserve
 * User Authentication
 * Reservations 
 * Search by location
-* Mobile Respponsiveness
+* Mobile Responsiveness
 * Error Handling
 * Toasts
 
